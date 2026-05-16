@@ -19,7 +19,7 @@ workflows:
     publishing:
       email:
         recipients:
-          -elhussein.720240080@gmail.com
+          - elhussein.720240080@gmail.com
         notify:
           success: true
           failure: true
